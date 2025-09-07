@@ -1,18 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+P-Sahas+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=p-sahas&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sahas+Induwara+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-# 👋 Hi, I’m @p-sahas
+#  Hi, I’m @p-sahas
 
-## 👀 I’m interested in
+##  I’m interested in
 - Artificial Intelligence
 - Machine Learning
 - Genarative AI
@@ -20,28 +16,27 @@
 - Web Development
 - Open Source Projects
   
-## 🌱 I’m currently learning 
+##  I’m currently learning 
 - Python
 - Java
-- AI
+- Artificial Intelligence
 - Database
 - Deep Learning
+- Machine Learning
+- Application Deployment
 - Web Development
 - Linux Tool Development
+- Mathematics
 
 
-## 💞️ I’m looking to collaborate on
+##  I’m looking to collaborate on
 - Innovative web apps
 - AI-powered tools
 - Linux tools
 
-
-## 😄 Pronouns
-- he/him
-
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 <p align="left">
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
@@ -66,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=p-sahas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -76,7 +71,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="mailto:eap.sahas@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
