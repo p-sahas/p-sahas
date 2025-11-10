@@ -13,30 +13,33 @@
 - Machine Learning
 - Genarative AI
 - Deep Learning
-- Web Development
-- Open Source Projects
+- Neural Networks
+- Large Language Models
+- Data Engineering
   
 ##  I’m currently learning 
 - Python
 - Java
-- Artificial Intelligence
-- Database
-- Deep Learning
+- Databases (MySQL, PostgreSQL, Vector Databases)
+- Deep Learning Techniques
 - Machine Learning
-- Application Deployment
+- Application & Models Deployment
 - Web Development
-- Linux Tool Development
-- Mathematics
+- Linux 
+- Mathematics 
 
 
 ##  I’m looking to collaborate on
+- ML Projects
+- LLM Finetuning
 - Innovative web apps
 - AI-powered tools
-- Linux tools
+  
 
 ---
 
 ##  Tech Stack
+
 <p align="left">
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
