@@ -39,6 +39,18 @@
 ---
 
 ##  Tech Stack
+| Category | Tools |
+|---|---|
+|  AI & ML | PyTorch, TensorFlow, scikit-learn, Optuna, HuggingFace, MLflow |
+|  LLM Frameworks | LangChain, LangGraph, LlamaIndex, LangFuse, Tavily |
+|  API Providers  | OpenRouter, Gemini, Groq |
+|  Databases & Vector Stores | MySQL, PostgreSQL, Supabase, ChromaDB, Qdrant, Weaviate |
+|  Data Science | Pandas, NumPy, Scipy, Matplotlib, Plotly, Altair, Seaborn, Pydantic |
+|  Languages | Python, Java, JavaScript, R, SQL, HTML, CSS |
+|  Web & API | FastAPI, Streamlit, JavaFX, Postman |
+|  Cloud & DevOps | AWS, GCP, Docker, Kubernetes, Kafka, Airflow, Github Actions |
+|  Tools | VSCode, DataGrip, , IntelliJ IDEA, PyCharm |
+|  Repostories | GitHub, Kaggle, HuggingFace |
 
 <p align="left">
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
