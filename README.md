@@ -8,32 +8,38 @@
 
 #  Hi, I’m @p-sahas
 
-##  I’m interested in
+##  I'm interested in
 - Artificial Intelligence
 - Machine Learning
-- Genarative AI
-- Deep Learning
-- Neural Networks
-- Large Language Models
-- Data Engineering
-  
-##  I’m currently learning 
-- Python
-- Java
-- Databases (MySQL, PostgreSQL, Vector Databases)
-- Deep Learning Techniques
-- Machine Learning
-- Application & Models Deployment
-- Web Development
-- Linux 
-- Mathematics 
+- Reinforcement learning
+- Generative AI
+- Deep Learning & Neural Networks
+- Large Language Models (LLMs)
+- LLM Agents & Multi-Agent Systems
+- Data Engineering & Pipelines
+- MLOps & Model Deployment
 
+---
 
-##  I’m looking to collaborate on
-- ML Projects
-- LLM Finetuning
-- Innovative web apps
-- AI-powered tools
+##  I'm currently learning
+- Advanced Deep Learning Techniques
+- LLM Fine-tuning & RLHF
+- Agentic AI Frameworks (LangGraph, LlamaIndex)
+- Vector Databases & RAG Systems
+- Cloud Platforms (AWS, GCP)
+- Docker & Kubernetes
+- Data Pipeline Orchestration (Airflow, Kafka)
+- Mathematics for ML (Linear Algebra, Statistics, Calculus)
+
+---
+
+##  I'm looking to collaborate on
+- ML & Deep Learning Projects
+- LLM Fine-tuning & RAG Applications
+- Agentic AI & Multi-Agent Systems
+- AI-Powered Tools & Automation
+- Open Source AI Projects
+- Data Engineering Pipelines
   
 
 ---
