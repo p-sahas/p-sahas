@@ -19,7 +19,6 @@
 - Data Engineering & Pipelines
 - MLOps & Model Deployment
 
----
 
 ##  I'm currently learning
 - Advanced Deep Learning Techniques
@@ -31,7 +30,6 @@
 - Data Pipeline Orchestration (Airflow, Kafka)
 - Mathematics for ML (Linear Algebra, Statistics, Calculus)
 
----
 
 ##  I'm looking to collaborate on
 - ML & Deep Learning Projects
@@ -42,7 +40,6 @@
 - Data Engineering Pipelines
   
 
----
 
 ##  Tech Stack
 | Category | Tools |
@@ -131,7 +128,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
 
 ##  GitHub Stats
 
