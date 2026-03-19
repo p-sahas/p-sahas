@@ -145,6 +145,7 @@
   <a href="https://linkedin.com/in/sahas-induwara"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/sahasinduwara"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a>
   <a href="https://www.hackerrank.com/profile/p_sahas"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/></a>
+  <a href="https://huggingface.co/p-sahas"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 </p>
 
 ---
